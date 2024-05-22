@@ -1,1 +1,1 @@
-# Employee-Nexus
+An application built using ASP.NET Core, designed to manage employee information. It features functionalities such as account creation, user login, employee addition, and employee search. The application is backed by an SQL database for data storage and retrieval.
